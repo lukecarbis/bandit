@@ -2,6 +2,13 @@
 
 Ask any question to Bandit (Bluey's Dad).
 
+## Requirements
+You'll need to install the OpenAI python library:
+
+```
+pip install --upgrade openai
+```
+
 ## Setup
 First generate the fine-tuned model:
 
